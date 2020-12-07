@@ -1,0 +1,14 @@
+{
+    "files": [
+        {
+            "filename": "name1",
+            "tag":["tag1", "tag2"],
+            "bytes": [101,102]
+        },
+        {
+            "filename": "name2",
+            "tag":["tag2", "tag3"],
+            "bytes": [103,104]
+        }
+    ]
+ }
